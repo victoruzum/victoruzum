@@ -20,12 +20,6 @@ I'm an MSc Cyber Security student at Northumbria University, building practical 
 - Cloud network security
 - Security automation
 
-## Career Direction
-Network Security Engineering  
-→ Security Engineering  
-→ Security Architecture  
-→ Information Security Leadership
-
 ## Certifications
 - CompTIA Security+
 - Kaggle Intro to Programming
