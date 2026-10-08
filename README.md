@@ -1,50 +1,38 @@
-# Hi, I'm Uzum 👋
-I'm an MSc Cyber Security student at Northumbria University, building practical skills across Security Operations, Governance, Risk & Compliance, and Information Security.
+## Hi, I'm Uzum 
+I'm an MSc Cyber Security student at Northumbria University, building practical skills toward a career in Network Security Engineering and broader Information Security.
 
-## 🔐 Cybersecurity Focus
+## Focus
+- Network Security
+- Networking
+- Network Security Architecture
 - Security Operations (SOC)
 - Governance, Risk & Compliance (GRC)
-- Information Security
-- Network Security
 - Identity & Access Management (IAM)
 - Cloud Security
 - Linux
 - Python
 
-## 🛠️ Currently Building
-- SOC and security monitoring labs
-- Network security assessments
-- Incident investigation projects
-- Cybersecurity risk assessments
-- NIST CSF projects
-- ISO 27001 projects
-- Cloud security assessments
-- Security automation projects
+## Currently Building
+- Wireshark traffic analysis
+- Nmap security assessments
+- Firewall and network segmentation labs
+- IDS/IPS detection labs
+- Cloud network security
+- Security automation
 
-## 🎓 Education
-**MSc Cyber Security**
-Northumbria University, London
-**B.Eng. Agricultural & Bio-Resources Engineering**  
-Federal University of Agriculture, Abeokuta
+## Career Direction
+Network Security Engineering  
+→ Security Engineering  
+→ Security Architecture  
+→ Information Security Leadership
 
-## 📜 Certifications
+## Certifications
 - CompTIA Security+
 - Kaggle Intro to Programming
 
-## 🚀 Career Direction
-Cybersecurity → SOC / GRC → Information Security → Security Leadership → CISO
+## Education
+**MSc Cyber Security**  
+Northumbria University, London
 
-## 📚 Current Learning
-- Linux
-- Networking
-- Python
-- IAM
-- Cloud Security
-- Security Operations
-- GRC
-- Risk Management
-- ISO 27001
-- NIST Cybersecurity Framework
-
-## 📫 Connect
-- LinkedIn: [www.linkedin.com/in/victoruzum]
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/victoruzum)
